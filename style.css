@@ -269,8 +269,9 @@ html {
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 10px;
+  margin: 10px;
   transition: all 0.2s;
+  border-bottom: 2px solid grey;
 }
 
 .footer-name:hover {
